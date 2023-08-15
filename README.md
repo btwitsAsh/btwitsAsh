@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @btwitsAsh
+- 👋 Hi, I’m @Ash
 - 👀 I’m interested in Android development and WEBdev
 - 🌱 I’m currently learning c++(DSA)
 - 💞️ I’m looking to gain more knowledge and experience
