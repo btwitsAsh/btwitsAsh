@@ -1,3 +1,4 @@
+![logo](https://resumespice.com/wp-content/uploads/2021/03/13.png)
 <h1 align="center">Hi 👋, I'm Ashmeet Singh</h1>
 <h3 align="center">A passionate Undergrad frontend developer from Delhi,India</h3>
 
