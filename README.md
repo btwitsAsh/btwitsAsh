@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btwitsash&label=Profile%20views&color=0e75b6&style=flat" alt="btwitsash" /> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Data Science and Generative AI**
 
-- 🌱 I’m currently learning **MERNstack**
+- 🌱 I’m currently learning **RAG,LangChain,LLms**
 
 - 📝 I regularly write articles on [https://www.instagram.com/singh_ashmeett/](https://www.instagram.com/singh_ashmeett/)
 
