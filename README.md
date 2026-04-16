@@ -1,6 +1,6 @@
 ![logo](https://camo.githubusercontent.com/e2ab69d5a806b80711a92cd080b85bd4a71f014be76314170853caa52ebbb368/68747470733a2f2f7468656163656d616b6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f636f7573746f6d2d7765622e676966)
 <h1 align="center">Hi 👋, I'm Ashmeet Singh</h1>
-<h3 align="center">A passionate Undergrad frontend developer from Delhi,India</h3>
+<h3 align="center">A passionate Undergrad Data Scientist/GenAI engineer from Delhi,India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/zFYlcnyDzhkAAAAd/student-studying.gif">
 
